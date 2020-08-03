@@ -1,4 +1,4 @@
-package com.dius.tennis.states.point.factory;
+package com.dius.tennis.end2end;
 
 import com.dius.tennis.Match;
 import com.dius.tennis.states.DiUSTennisException;
