@@ -13,7 +13,7 @@ $ mvn -e test
 ```
 
 # Run using intellij
-Ctrl+Shift+f10
+Ctrl+Shift+f10 (there is a small typo in package name, it should have been just com.dius.tennis) 
 ![Run](screenshot/intellij.png)
 
 
